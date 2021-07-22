@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.container{
+    background-color: black;
+    /* border: 2px solid red; */
+    color: white;
+    text-align: center;
+}
+#input{
+    color:tomato ;
+}
+.btn{
+    background-color: aquamarine;
+}
